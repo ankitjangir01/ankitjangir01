@@ -1,16 +1,21 @@
-### Hi there 👋
+# Ankit Jangir - Frontend-heavy Full-stack Software Engineer
 
-<!--
-**ankitjangir01/ankitjangir01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! This page serves as a showcase of my skills, experiences, and projects as a Software Engineer. Feel free to explore and learn more about my journey in the world of technology and software development.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Data Structures and Algorithms (DSA)
+- ReactJS, Node.js, Express.js, MongoDB (MERN Stack)
+- HTML5 | CSS3 | JavaScript
+- Tailwind CSS | Material UI (MUI) | Bootstrap
+- Framer Motion
+- Spring Boot
+- SQL
+- RESTful APIs
+- C++ | Python
+
+## Coding Profiles
+
+- [LeetCode](https://leetcode.com/YourLeetCodeHandle) (Rating 1550+) - Globally in top 26%
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/YourGeeksforGeeksHandle/profile) (Score 1800+)
