@@ -12,15 +12,11 @@
 <!--Intro start-->
 A few points about me-
 
-- 🙋‍♂️ Actively looking for SDE roles at present, feel free to contact me.
+- 🔭 Building highly scalable applications with **MERN Stack**.
 
-- 🔭 Currently working with **MERN Stack** and **Spring Boot**.
-
-- 🌱 Learning **to develop highly appealing frontend part**.
+- 🌱 Engineered **stunning UIs and high performance backend**.
 
 - ☁️ Built full stack projects end-to-end, single-handedly.
-
-- 📝 Engineered several projects working with cross functional teams at a highly collaborative workplace.
 
  
  &nbsp;
@@ -35,7 +31,7 @@ A few points about me-
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,spring,tailwind,materialui,bootstrap,html,css,javascript,mysql,cpp,python,git,github,vscode,ps&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,spring,tailwind,materialui,bootstrap,html,css,mysql,cpp,python,git,github,vscode,ps&perline=8" />
   </a>
 </p>
 
